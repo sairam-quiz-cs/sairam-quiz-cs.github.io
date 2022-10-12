@@ -26,9 +26,9 @@ var questionBank= [
         answer : '1967'
     },
     {
-        question : 'Fwhat is my name',
-        option : ['1967','1968','1958','kavin'],
-        answer : 'kavin'
+        question : 'when did india get independence',
+        option : ['1967','1968','1958','1947'],
+        answer : '1947'
     }
 ]
 
