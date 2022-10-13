@@ -2,7 +2,7 @@
 var questionBank= [
     {
         question : 'Whether the Aicte idea lab is present in sairam ?',
-        option : ['Yes','No'],
+        option : ['Yes','No','Either Yes nor No','None'],
         answer : 'Yes'
     },
     {
@@ -27,7 +27,7 @@ var questionBank= [
     },
     {
         question : 'The SDGs are',
-        option : ['independent of each other','linked to each other'],
+        option : ['independent of each other','linked to each other','differences in income','capital cities'],
         answer : 'linked to each other'
     },
     {
@@ -43,12 +43,12 @@ var questionBank= [
     },
     {
         question : 'Augmented reality, Virtual reality and Mixed reality can be put together as',
-        option : ['Artificial reality','Extended reality','Ultimate reality'],
+        option : ['Artificial reality','Extended reality','Ultimate reality','Virtual reality'],
         answer : 'Extended reality'
     },
     {
         question : 'Microsoft hololens 2 is a gear for',
-        option : ['Mixed reality','Virtual reality','Augmented reality'],
+        option : ['Mixed reality','Virtual reality','Augmented reality','Ultimate reality'],
         answer : 'Mixed reality'
 
     },
@@ -59,7 +59,7 @@ var questionBank= [
     },
     {
         question : 'How many 2d images are required to generate a 3d image ?',
-        option : ['2','3','360'],
+        option : ['2','3','360','120'],
         answer : '2'
     },
     {
